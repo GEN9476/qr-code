@@ -28,7 +28,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   https://github.com/annaw-99/qr-code.git
+   https://github.com/GEN9476/qr-code.git
    cd qr-code
    ```
 
